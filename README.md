@@ -1,2 +1,5 @@
 # Hello-World
-Just another repository
+
+Hellow humans
+
+I wish everybody wasnt dumb anymore and have some common sense
